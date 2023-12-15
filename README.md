@@ -1,5 +1,5 @@
 # 🗄️👨‍💼👩‍💼 Student System Management CSV App 👩‍💼👨‍💼🗄️
-- Console project of student system management where database are based on .csv file. 
+- Console project of student system management based on .csv file. 
 
 # Current features 📝
 - Creating a new database .csv file ✔
